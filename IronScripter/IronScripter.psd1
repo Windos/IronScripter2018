@@ -7,7 +7,7 @@
     Copyright = '(c) 2018 Joshua (Windos) King. All rights reserved.'
     Description = "Windos' Iron Scripter 2018 'solutions'"
     PowerShellVersion = '5.1'
-    FunctionsToExport = ''
+    FunctionsToExport = 'Get-MonitorInformation'
     CmdletsToExport = @()
     AliasesToExport = @()
     PrivateData = @{
