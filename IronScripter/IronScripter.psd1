@@ -17,7 +17,10 @@
             ProjectUri = 'https://github.com/Windos/IronScripter2018'
             IconUri = ''
             ReleaseNotes = '
-* Puzzle 1
+* v0.0.1
+  * Puzzle 1
+  * Get-MonitorInformation.ps1 (Public)
+  * Validate-ComputerName.ps1 (Private)
 '
         }
     }
